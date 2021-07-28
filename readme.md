@@ -11,8 +11,8 @@
 
 If you have any suggestion or any problem you can email me `halwesit@gmail.com`
 
-  
 
+<div dir="rtl">
 **سڵاو**، بەخێربییت
 
   
@@ -28,3 +28,12 @@ If you have any suggestion or any problem you can email me `halwesit@gmail.com`
   
 
 ئەگەر هەرکێشەیەک یان هەر پێشنیارێکت هەیە دەتوانیت لە ڕێگای ئەو ئیمەیڵەوە پەیوەندیم پێوە بکەیت: `halwesit@gmail.com`
+
+<div dir="ltr">
+
+
+**List of solved challenges:** 
+|# |challenge| link to the solution  |
+|--|--|--|
+|1.| **Alphabet Position** | [link](https://github.com/halwesit/js-daily-challenges/tree/main/alphabetPosition) |
+|2.| **Digit Pow** | [link](https://github.com/halwesit/js-daily-challenges/tree/main/digPow) |
