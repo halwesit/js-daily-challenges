@@ -37,3 +37,6 @@ If you have any suggestion or any problem you can email me `halwesit@gmail.com`
 |--|--|--|
 |1.| **Alphabet Position** | [link](https://github.com/halwesit/js-daily-challenges/tree/main/alphabetPosition) |
 |2.| **Digit Pow** | [link](https://github.com/halwesit/js-daily-challenges/tree/main/digPow) |
+|3.| **Growth Of a Population** | [link](https://github.com/halwesit/js-daily-challenges/tree/main/GrowthOfPopulation) |
+|4.| **Descending Order** | [link](https://github.com/halwesit/js-daily-challenges/tree/main/Descending%20Order) |
+
