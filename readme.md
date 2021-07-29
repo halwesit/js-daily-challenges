@@ -40,5 +40,5 @@ If you have any suggestion or any problem you can email me `halwesit@gmail.com`
 |3.| **Growth Of a Population** | [link](https://github.com/halwesit/js-daily-challenges/tree/main/GrowthOfPopulation) |
 |4.| **Descending Order** | [link](https://github.com/halwesit/js-daily-challenges/tree/main/Descending%20Order) |
 |5.| **Isogram** | [link](https://github.com/halwesit/js-daily-challenges/tree/main/Isograms) |
-|5.| **Add Binary** | [link](https://github.com/halwesit/js-daily-challenges/tree/main/add%20binary) |
+|5.| **Add Binary** | [link](https://github.com/halwesit/js-daily-challenges/tree/main/Add%20Binary) |
 
