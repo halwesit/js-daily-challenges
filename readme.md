@@ -42,4 +42,5 @@ If you have any suggestion or any problem you can email me `halwesit@gmail.com`
 |5.| **Isogram** | [link](https://github.com/halwesit/js-daily-challenges/tree/main/Isograms) |
 |6.| **Add Binary** | [link](https://github.com/halwesit/js-daily-challenges/tree/main/Add%20Binary) |
 |7.| **IQ Test** | [link](https://github.com/halwesit/js-daily-challenges/tree/main/IQ%20Test) |
+|8.| **Persistent Bugger** | [link](https://github.com/halwesit/js-daily-challenges/tree/main/PersistentBugger) |
 
